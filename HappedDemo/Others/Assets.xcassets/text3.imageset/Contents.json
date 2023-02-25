@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Your confirmation code is below — enter it and we'll help you get signed in..png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Your confirmation code is below — enter it and we'll help you get signed in.@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Your confirmation code is below — enter it and we'll help you get signed in.@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
